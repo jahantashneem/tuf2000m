@@ -1,0 +1,50 @@
+.main_box
+{
+    background-color: lightblue;
+    height: 520px;
+    width:auto;
+   
+}
+.text_result{
+    height: 20px;
+    width:600px;
+    margin-left: 30%;
+}
+.form_box
+{
+    text-align: center;
+    height: 400px;
+    width:400px;
+    border:1px solid gray;
+    margin-left:35%;
+    
+}
+.form_div
+{
+     height: 520px;
+     width:auto;
+    margin-top: 20px;
+    background-color: lightblue;
+}
+.main_text
+{
+    
+    color: darkgray;
+}
+.text_box
+{
+    width:180px;
+    height: 30px;
+}
+.title_text
+{
+    color:white;
+    text-align: center;
+}
+.header
+{
+    height:100px;
+    width:100%;
+    background-color: #4682B4;
+    color:white;
+}
